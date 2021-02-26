@@ -1,3 +1,4 @@
 - 1 bulan front end kelar
 - buat portofolio
 dah
+- buat web iot
